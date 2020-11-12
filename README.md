@@ -1,7 +1,5 @@
 # Handbrake Automator
 
-THIS README IS FOR Handbrake-Automator.ps1 NOT Handbrake-Automator-New.ps1
-
 This is a script I created to automate re-encoding tasks before being picked up by sonarr.  
 It can also be used without the sonarr integration if the sonarr option is set to 0
 
